@@ -50,7 +50,7 @@ numpy
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/financial-inclusion-prediction.git
+    git clone https://github.com/bettahar-mehdi/financial-inclusion-prediction.git
     cd financial-inclusion-prediction
     ```
 
